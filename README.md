@@ -1,3 +1,6 @@
+
+![git](https://user-images.githubusercontent.com/103457043/163279894-a45f46f9-135b-4af9-a115-1cae02500e7b.jpg)
+
 # My debut with GIT
 Here is some basics commands to start using this powerful tool :hammer:
 
